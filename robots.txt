@@ -1,0 +1,2 @@
+User-agent: Yandex
+Sitemap: https://vtoroe-vysshee-psihologiya-distancionno.vercel.app/sitemap.xml
